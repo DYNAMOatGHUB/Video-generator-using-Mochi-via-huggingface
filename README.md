@@ -9,7 +9,7 @@ Generate AI videos using Genmo's Mochi model via Hugging Face.
 
 ## Quick Start (Google Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/mochi-video-generator/blob/main/mochi_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DYNAMOatGHUB/Video-generator-using-Mochi-via-huggingface/blob/main/mochi_colab.ipynb)
 
 1. Click the badge above or upload `mochi_colab.ipynb` to Google Colab
 2. Set runtime to GPU: `Runtime → Change runtime type → A100`
